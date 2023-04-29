@@ -70,6 +70,9 @@ export default function Footer({ events, startOver, handleImageDropped }) {
         <Link href="https://github.com/replicate/instruct-pix2pix-demo">
           <a target="_blank">GitHub</a>
         </Link>
+        <Link href="https://nftearth.exchange">
+          <a target="_blank">NFTEarth</a>
+        </Link>
       </div>
     </footer>
   );

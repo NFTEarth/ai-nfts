@@ -10,9 +10,9 @@ import { getRandomSeed } from "lib/seeds";
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-export const appName = "Paint by Text";
-export const appSubtitle = "Edit your photos using written instructions, with the help of an AI.";
-export const appMetaDescription = "Edit your photos using written instructions, with the help of an AI.";
+export const appName = "AI NFTs with Text";
+export const appSubtitle = "Edit your images using text instructions, with, AI - to use in NFT creation.";
+export const appMetaDescription = "Edit your images using written instructions, with the help of an AI.";
 
 export default function Home() {
   const [events, setEvents] = useState([]);
