@@ -1,12 +1,26 @@
-# 👩‍🎨 Paint by Text
+<span align="center">
 
-Modify images by chatting with a generative AI model.
+# AI NFTs from NFTEarth
+
+
+---
+  
+<br />
+
+![image](https://user-images.githubusercontent.com/29180454/235326579-08363efb-d3b3-49ed-b204-235305a3bad8.png)
+
+Modify images for use in NFT creation using a generative AI model to then use in creating images.
 
 Try it out at [paintbytext.chat](http://paintbytext.chat)
 
 ## How it works
 
 This app is powered by:
+
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/@NFTEarth_L2)
+[![Discord](https://img.shields.io/discord/1062256160264171520?color=black&label=discord&logo=discord&logoColor=white)](https://discord.gg/nftearth)
+
+🎨 [NFTEarth](https://nftearth.exchange), an NFT protocol built on Layer2 Ethereum for trading NFTs and creating NFTs.
 
 🚀 [Replicate](https://replicate.com/?utm_source=project&utm_campaign=paintbytext), a platform for running machine learning models in the cloud.
 
@@ -18,19 +32,6 @@ This app is powered by:
 
 👀 Next.js React components, for the browser UI.
 
-🍃 [Tailwind CSS](https://tailwindcss.com/), for styles.
+🍃 [Tailwind CSS](https://tailwindcss.com/), for styles. 
 
 
-## Development
-
-1. Install a recent version of [Node.js](https://nodejs.org/)
-1. Copy your [Replicate API token](https://replicate.com/account?utm_source=project&utm_campaign=paintbytext) and set it in your environment:
-    ```
-    echo "REPLICATE_API_TOKEN=<your-token-here>" > .env.local
-    ````
-1. Install dependencies and run the server:
-    ```
-    npm install
-    npm run dev
-    ```
-1. Open [localhost:3000](http://localhost:3000) in your browser. That's it!
