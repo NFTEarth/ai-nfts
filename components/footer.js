@@ -66,10 +66,11 @@ export default function Footer({ events, startOver, handleImageDropped }) {
         <Link href="https://vercel.com/templates/ai">
           <a target="_blank">Vercel</a>
         </Link>
-        , and{" "}
+        ,{" "}
         <Link href="https://github.com/replicate/instruct-pix2pix-demo">
           <a target="_blank">GitHub</a>
         </Link>
+        , and{" "}
         <Link href="https://nftearth.exchange">
           <a target="_blank">NFTEarth</a>
         </Link>
